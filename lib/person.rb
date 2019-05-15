@@ -11,7 +11,7 @@ class Person
     @job = person_job
   end
   
-  def breed
+  def job
     @job
   end
 end
